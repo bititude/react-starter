@@ -2,7 +2,7 @@
 
 A starter template for react projects
 
-use `degit bititude/react-starter react-starter` to clone the repo without git data
+use `degit bititude/react-starter <your project folder name>` to clone the repo without git data
 
 > run `npm install -g degit` to install degit
 
