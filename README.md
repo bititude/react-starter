@@ -2,6 +2,10 @@
 
 A starter template for react projects
 
+use `degit bititude/react-starter react-starter` to clone the repo without git data
+
+> run `npm install -g degit` to install degit
+
 # Folder Structure
 
 # Documentation using storybook
