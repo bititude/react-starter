@@ -22,8 +22,12 @@ A starter template for react projects
 
 ## Server state
 
+# Routing
+
 # ESLint & Prettier
 
 # Styling
 
 # Branch's
+
+# Environment variables
